@@ -1,3 +1,7 @@
 echo "hello!";
+<<<<<<< HEAD
 
 new feature connected
+=======
+master updated code;
+>>>>>>> master
